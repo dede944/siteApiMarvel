@@ -1,0 +1,19 @@
+
+body{
+    margin: 0
+
+}
+
+.container{
+  height: 500px;
+  max-width: 100%;
+  background-color: #0C3342;
+}
+
+#herois{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  background-color:#22A287 :
+  
+}
